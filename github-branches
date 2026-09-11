@@ -1,0 +1,4 @@
+theia@theia-dsabitapatra:~/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 62f63b4 Revert "Update README.md"
+  bug-fix-typo   338bba2 Add curl command to retrieve parent repo clone URL
+  main           338bba2 [origin/main] Add curl command to retrieve parent repo clone URL
