@@ -1,0 +1,9 @@
+theia@theia-dsabitapatra:~/mcino-Introduction-to-Git-and-GitHub$ git checkout main
+Already on 'main'
+Your branch is behind 'origin/main' by 3 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+theia@theia-dsabitapatra:~/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating 338bba2..4799ab2
+Fast-forward
+ README.md | 2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
